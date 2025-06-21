@@ -9,7 +9,7 @@
 🧠 Tech Stack:
 - 💡 Frontend: HTML, CSS, Tailwind, JavaScript, React
 - ⚙️ Backend: Node.js, Express, MongoDB
-- 🤖 AI: Python, Flask, OpenAI API (basic level)
+- 🤖 AI: Python, Flask, OpenAI API (learining )
 - 🧪 Tools: Git, GitHub, VS Code, Postman, Netlify
 
 ---
